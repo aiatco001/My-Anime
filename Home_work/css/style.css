@@ -1,0 +1,51 @@
+*,
+*::before,
+*::after{
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+li{
+	list-style: none;
+}
+a,
+a:visited{
+	text-decoration: none;
+}
+a:hover{
+	text-decoration: none;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6{
+	font-weight: inherit;
+	font-size: inherit;
+}
+img{
+	vertical-align: top;
+}
+.main{
+	color: green;
+
+}
+div{
+	color: darkblue;
+}
+#message{
+	color: crimson;
+}
+header{
+	color: darkorange;
+}
+p.text{
+	color: yellowgreen;
+}
+h1{
+	font-size: 200%;
+}
+h2{
+	font-size: 3vh;
+}
